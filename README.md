@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Cui Lin.
 
+Master's student at Xi'an Jiaotong University
+
+Email: chailyncui@stu.xjtu.edu.cn
+
+Homepage: https://chailyncui.top/about
 <!--
 **ChailynCui/ChailynCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

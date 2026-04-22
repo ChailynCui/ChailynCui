@@ -40,14 +40,6 @@
 
 <h3>🏆 竞赛项目</h3>
 
-<h4>AI_Doc_Read_Studio by Cangjie</h4>
-<p><strong>竞赛名称：</strong>【2026】第十届华为 ICT 大赛——编程赛道</p>
-<p><strong>当前状态：</strong>已晋级国家总决赛，结果待定</p>
-<p>
-  <a href="https://github.com/ChailynCui/CJAI_Doc_Read_Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChailynCui&repo=CJAI_Doc_Read_Studio&theme=shadow_red" />
-  </a>
-</p>
 
 <h4>Insu-Snap</h4>
 <p><strong>竞赛名称：</strong>【2026】第十九届全国大学生软件创新大赛</p>
@@ -101,7 +93,7 @@
 <ul>
   <li><b>国家级一等奖</b> —— 【2025】第五届“未来杯”高校大数据挑战赛（研究生组，A题）</li>
   <li><b>国家级二等奖</b> —— 【2025】第九届全国激光雷达大会点云数据智能解析比赛（赛道一）</li>
-  <li><b>省级一等奖</b> —— 【2025】第十届华为 ICT 大赛（编程赛道），晋级国家总决赛</li>
+  <li><b>国家三等奖</b> —— 【2025】第十届华为 ICT 大赛（编程赛道）</li>
   <li><b>省级三等奖</b> —— 【2025】全球校园人工智能算法精英大赛（赛道二）</li>
 </ul>
 
@@ -140,15 +132,6 @@
   <h2>🚀 Featured Projects</h2>
 
   <h3>🏆 Competition Projects</h3>
-
-  <h4>AI_Doc_Read_Studio by Cangjie</h4>
-  <p><strong>Competition:</strong> 【2026】The 10th Huawei ICT Competition — Programming Track</p>
-  <p><strong>Status:</strong> Advanced to the National Finals, Results Pending</p>
-  <p>
-  <a href="https://github.com/ChailynCui/CJAI_Doc_Read_Studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChailynCui&repo=CJAI_Doc_Read_Studio&theme=shadow_red" />
-  </a>
-  </p>
 
   <h4>Insu-Snap</h4>
   <p><strong>Competition:</strong> 【2026】The 19th National College Student Software Innovation Competition</p>
@@ -192,7 +175,7 @@
   <ul>
     <li><b>National First Prize</b> — 【2025】The 5th Future Cup University Big Data Challenge (Graduate Division, Problem A)</li>
     <li><b>National Second Prize</b> — 【2025】Point Cloud Intelligent Parsing Competition, The 9th National LiDAR Conference (Track 1)</li>
-    <li><b>Provincial First Prize</b> — 【2025】The 10th Huawei ICT Competition (Programming Track), advanced to the National Finals</li>
+    <li><b>National Third Prize</b> — 【2025】The 10th Huawei ICT Competition (Programming Track)</li>
     <li><b>Provincial Third Prize</b> — 【2025】Global Campus AI Algorithm Elite Competition (Track 2)</li>
   </ul>
 

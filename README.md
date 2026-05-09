@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是崔琳 👋</h1>
+<!-- <h1 align="center">你好，我是崔琳 👋</h1>
 
 <p align="center">
   <i>AI 应用开发 · 软件工程 · 三维生成</i>
@@ -198,4 +198,4 @@
 
 <p align="center">
   <b>感谢访问我的主页！</b> ✨
-</p>
+</p> -->

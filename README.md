@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<!-- <td valign="top" width="50%">
+<td valign="top" width="50%">
 
 <h3>🏆 竞赛项目</h3>
 
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-</td> -->
+</td> 
 <td valign="top" width="50%">
 
 <h3>💻 个人项目</h3>
